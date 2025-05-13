@@ -25,11 +25,7 @@
     "web": {
       "favicon": "./assets/Logo.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "221d2bc0-e34d-4538-b828-2e1cabe5bba7"
-      }
-    },
+
     "runtimeVersion": {
       "policy": "sdkVersion"
     }
